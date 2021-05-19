@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+
+    "api.mysql": "server=gw-dev-cluster.cluster-ct0vtd3stxoq.us-east-1.rds.amazonaws.com;uid=php;pwd=jjOoan1UVZpDBA5p5YHY;database=RBDG;"
+
+  }
+}
